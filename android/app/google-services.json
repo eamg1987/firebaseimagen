@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209611532391",
+    "project_id": "fir-fotos-16ef6",
+    "storage_bucket": "fir-fotos-16ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209611532391:android:4f0a4d6a0235edebacccc2",
+        "android_client_info": {
+          "package_name": "com.example.firefotos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARdDJUQPQeV9xPtILnlCc3CSYsMwG6bbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
